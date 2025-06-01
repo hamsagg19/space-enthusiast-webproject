@@ -1,0 +1,88 @@
+body{
+  background-image: url(2137189.png);
+  color: hsl(0, 50%, 99%);
+  text-shadow: 5px 5px 10px #5a7e5a;
+}
+.box-row {
+    display: flex;
+    justify-content: space-around;
+   }
+   
+   .box {
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+   
+    line-height: 100px;
+    border: 1px solid black;
+   }
+  .box-row{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  h3{
+    font-family: Arial, sans-serif;
+    color: blanchedalmond;
+font-size: x-large;
+  }
+   .box1 {
+    background-image: url("th\ \(5\).jpeg");
+    background-size: cover;
+    
+    
+   }
+   
+   .box2 {
+    background-image: url("th\ \(6\).jpeg");
+    background-size: cover;
+   }
+   
+   .box3 {
+    background-image: url("th\ \(7\).jpeg");
+    background-size: cover;
+   }
+   .box-row1{
+    display: flex;
+    justify-content: space-evenly;
+  }
+   
+   .boxo{ width: 400px;
+    height: 300px;
+    margin: 5px;
+    padding: 10px;
+   
+    line-height: 100px;
+    border: 1px solid black;
+    
+}
+
+    .box4 {
+      background-image: url("th\ \(8\).jpeg");
+      background-size: cover;
+       }
+       
+       .box5 {
+        background-image: url("th\ \(9\).jpeg");
+        background-size: cover;
+       }
+       
+       .box6 {
+        background-image: url("th\ \(10\).jpeg");
+        background-size: cover;
+       }
+   #quiz{
+    background-color:blanchedalmond;
+    color:rgb(15, 14, 14);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 130px;
+  
+   }
+   .round{
+    border-radius: 20px;
+    height: 20px;
+    width: 100px;
+    text-align: center;
+    box-shadow: 4px 4px 8px #829282;
+   }

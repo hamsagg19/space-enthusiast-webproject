@@ -1,0 +1,81 @@
+
+body{
+    background-image: url(2137189.png);
+
+}
+.img1{
+    background-image:url(th\ \(11\).jpeg) ;
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+}
+.fact1{
+    display: flex;
+   justify-content: space-around;
+}
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: antiquewhite;
+    text-shadow: 5px 5px 10px rgb(90, 104, 90);
+}
+h4{
+    font-size:15px;
+    color: antiquewhite;
+}
+h3{
+    text-shadow: 5px 5px 10px rgb(90, 104, 90);
+    font-size: 28px;
+    font-weight: bold;
+   color: antiquewhite; 
+}
+.img2{
+    background-image:url(moon-1527501_1920.jpg) ;
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+}
+.fact2{
+    display: flex;
+   justify-content:space-around;
+}
+.img3{
+    background-image:url(th\ \(12\).jpeg) ;
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+}
+.fact3{
+    display: flex;
+    justify-content:space-around;
+}
+.img4{
+    background-image:url(th\ \(13\).jpeg) ;
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+}
+.fact4{
+    display: flex;
+   justify-content:space-around;
+}
+.img5{
+    background-image:url(th\ \(14\).jpeg) ;
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+}
+.fact5{
+    display: flex;
+   justify-content:space-around;
+}
+.img6{
+    background-image:url(th\ \(15\).jpeg) ;
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+}
+.fact6{
+    display: flex;
+   justify-content:space-around;
+}
